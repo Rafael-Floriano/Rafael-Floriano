@@ -2,7 +2,7 @@
 
 
 <div align="center">
-- 🔭 Conhecimentos em Java, MySQL e GML
+<p>- 🔭 Conhecimentos em Java, MySQL e GML</p>
 - 🌱 Atualmente estou estudando HTML5,CSS3 e PHP
 - ⚡ Sempre em busca de emprego
 - 😄 Pronouns: Ele/Dele

@@ -1,11 +1,12 @@
 ## Olá eu Sou o Rafael Floriano  
 
 
-
+<div align="center">
 - 🔭 Conhecimentos em Java, MySQL e GML
 - 🌱 Atualmente estou estudando HTML5,CSS3 e PHP
 - ⚡ Sempre em busca de emprego
 - 😄 Pronouns: Ele/Dele
+</div>
 
 <div>
   <a href="https://github.com/Rafael-Floriano">

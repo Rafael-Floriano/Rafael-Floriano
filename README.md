@@ -3,9 +3,9 @@
 
 <div align="center">
 <p>- 🔭 Conhecimentos em Java, MySQL e GML</p>
-- 🌱 Atualmente estou estudando HTML5,CSS3 e PHP
-- ⚡ Sempre em busca de emprego
-- 😄 Pronouns: Ele/Dele
+<p>- 🌱 Atualmente estou estudando HTML5,CSS3 e PHP</p>
+<p>- ⚡ Sempre em busca de emprego</p>
+<p>- 😄 Pronouns: Ele/Dele</p>
 </div>
 
 <div>

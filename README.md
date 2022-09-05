@@ -1,5 +1,3 @@
-## Olá eu Sou o Rafael Floriano  
-
 <h1 align="center">Hi 👋, I'm Rafael-Floriano</h1>
 <h3 align="center">I'm a programming student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">

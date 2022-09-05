@@ -19,4 +19,4 @@
 
 <p><img align="left"  width="400px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-floriano&show_icons=true&locale=en&layout=compact" alt="rafael-floriano" /></p>
 
-<p>&nbsp;<img align="right" width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=rafael-floriano&show_icons=true&locale=en" alt="rafael-floriano" /></p>
+<p>&nbsp;<img align="right" width="400px" height="300px" src="https://github-readme-stats.vercel.app/api?username=rafael-floriano&show_icons=true&locale=en" alt="rafael-floriano" /></p>

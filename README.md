@@ -4,8 +4,6 @@
 <h3 align="center">I'm a programming student from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-floriano&label=Profile%20views&color=0e75b6&style=flat" alt="rafael-floriano" /> </p>
-
 - 🌱 I’m currently learning **JAVA and SpringBoot**
 
 - 📫 How to reach me **rafael.florianoc9@gmail.com**
@@ -23,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-floriano&show_icons=true&locale=en&layout=compact" alt="rafael-floriano" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rafael-floriano&show_icons=true&locale=en" alt="rafael-floriano" /></p>
+<p>&nbsp;<img align="right" width="200px" src="https://github-readme-stats.vercel.app/api?username=rafael-floriano&show_icons=true&locale=en" alt="rafael-floriano" /></p>

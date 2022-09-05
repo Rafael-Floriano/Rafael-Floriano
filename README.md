@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-floriano&show_icons=true&locale=en&layout=compact" alt="rafael-floriano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-floriano&show_icons=true&locale=en" alt="rafael-floriano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-floriano&" alt="rafael-floriano" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rafael-floriano&show_icons=true&locale=en" alt="rafael-floriano" /></p>

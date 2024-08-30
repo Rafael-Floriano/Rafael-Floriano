@@ -7,5 +7,5 @@
 ### 🧾 Profile Summary
 <div style="display: flex; justify-content: space-between;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafael-Floriano&theme=algolia" alt="Profile Details" style="width: 49%;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-Floriano&theme=algolia" alt="Repos per Language" style="width: 35%;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-Floriano&theme=algolia" alt="Repos per Language" style="width: 38%;">
 </div>
